@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senja20
 - 👀 I’m interested in all sorts of IT stuff. I am mianly working on front-end, but I would love to try new stuff and learns new technologies.
 - 🌱 I’m currently learning machine visions, algorithms, and mathematics as part of my Computer Engineering degree, as well as flutter and data visualization as part of my internship. I would love to learn chinese, but I do ot have much time for that at the moment. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate of some devops stuff
 - 📫 How to reach me on Linkedin www.linkedin.com/in/yauhen-yavorski-79a446234
