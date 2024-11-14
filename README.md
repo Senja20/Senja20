@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Senja20</h1>
+<h1 align="center">Hi 👋, I'm Senja</h1>
 <h3 align="center">Master's student in AI</h3>
 
 - 🌱 I’m currently learning **AI, torch, machine vision**
