@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Senja</h1>
 <h3 align="center">Master's student in AI</h3>
 
-- 🌱 I’m currently learning **AI, torch, machine vision**
+- 🌱 I’m currently learning **AI, torch, machine vision, and Generative AI**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
